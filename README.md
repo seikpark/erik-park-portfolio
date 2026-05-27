@@ -39,18 +39,6 @@ Short archive projects:
   - Rise Partners Digital Ops
   - E-commerce Education Work
 
-## Next Content Pass
-
-Replace placeholder artifact visuals with real project material:
-
-- Final UI screens
-- Before/after screens
-- User flows
-- Figma prototype exports
-- Design system components
-- Anonymized templates or handoff specs
-- Metric explanation, especially Butler retention +40%
-
 ## Current Positioning
 
 > Product Designer turning complex workflows into scalable, shipped experiences.
@@ -58,4 +46,3 @@ Replace placeholder artifact visuals with real project material:
 Supporting idea:
 
 > Senior Product Designer with PM experience, using product judgment, systems thinking, and delivery ownership as differentiators.
-
