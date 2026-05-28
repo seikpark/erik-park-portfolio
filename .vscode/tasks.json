@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Portfolio: serve local site",
+      "type": "shell",
+      "command": "python3",
+      "args": ["-m", "http.server", "8000", "--bind", "127.0.0.1"],
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Portfolio: open local site",
+      "type": "shell",
+      "command": "open",
+      "args": ["http://127.0.0.1:8000"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Portfolio: check JavaScript",
+      "type": "shell",
+      "command": "node",
+      "args": ["--check", "script.js"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Codex: start in this workspace",
+      "type": "shell",
+      "command": "codex",
+      "args": [
+        "-C",
+        "${workspaceFolder}",
+        "--sandbox",
+        "workspace-write",
+        "--ask-for-approval",
+        "on-request"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always"
+      }
+    }
+  ]
+}
