@@ -4,5 +4,7 @@ node_modules/
 dist/
 .env
 .env.*
+.playwright-cli/
+docs/
 *.md
 !README.md

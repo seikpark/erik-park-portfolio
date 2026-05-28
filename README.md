@@ -1,6 +1,6 @@
 # Erik Park Portfolio
 
-Local static prototype for a North America Senior Product Designer portfolio.
+Local static portfolio for North America Senior Product Designer roles.
 
 ## Open Locally
 
@@ -14,7 +14,7 @@ No build step is required.
 
 - `index.html` - page structure, sections, navigation, and contact links
 - `styles.css` - visual system, responsive layout, project artifacts
-- `script.js` - featured project data, short archive data, filters, mobile navigation
+- `script.js` - featured project data, short archive data, filters, and save interactions
 - `assets/Erik-Park-Resume-260121.pdf` - downloadable resume
 
 ## Update Project Content
@@ -41,8 +41,8 @@ Short archive projects:
 
 ## Current Positioning
 
-> Product Designer turning complex workflows into scalable, shipped experiences.
+> Product Designer with PM experience, turning complex workflows into scalable UX.
 
 Supporting idea:
 
-> Senior Product Designer with PM experience, using product judgment, systems thinking, and delivery ownership as differentiators.
+> Senior Product Designer candidate with PM experience, using product judgment, systems thinking, and delivery ownership as differentiators.
