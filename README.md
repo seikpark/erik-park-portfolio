@@ -12,9 +12,11 @@ No build step is required.
 
 ## File Structure
 
-- `index.html` - page structure, sections, navigation, and contact links
+- `index.html` - Work landing page
+- `design-workshop.html`, `about.html`, `resume.html` - secondary pages
+- `butler.html`, `sm-meta-passport.html`, `bero-ai.html` - case study detail pages
 - `styles.css` - visual system, responsive layout, project artifacts
-- `script.js` - featured project data, short archive data, filters, and save interactions
+- `script.js` - featured work and workshop item data
 - `assets/Erik-Park-Resume-260121.pdf` - downloadable resume
 
 ## Update Project Content
@@ -27,14 +29,13 @@ Featured case studies:
   - Butler
   - SM Meta-passport
   - Bero AI
+
+Design workshop:
+
+- `workshopItems`
   - Brickmate Design Operations
-
-Short archive projects:
-
-- `archiveProjects`
   - iTOO
   - Smile Me
-  - YZYZ
   - Kiosk Usability Research
   - Rise Partners Digital Ops
   - E-commerce Education Work
